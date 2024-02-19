@@ -1,8 +1,13 @@
-h1 {
-    text-align: center;
+h1, li {
+    font-family: Arial, sans-serif;
 }
 
-#scrambled-eggs {
-    width: 800;
-    height: 200px;
+h1 {
+    text-align: center;
+    color: #f00;
+    background-color: #000
+}
+
+li {
+    font-size: 23px;
 }
