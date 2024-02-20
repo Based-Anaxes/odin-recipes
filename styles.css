@@ -1,13 +1,26 @@
-h1, li {
-    font-family: Arial, sans-serif;
-}
-
 h1 {
     text-align: center;
-    color: #f00;
-    background-color: #000
+    background-color: lightblue;
+    padding: 20px;
+    margin: -10px;
+    font-weight: 800px;
+    font-family: 'Courier New', Courier, monospace;
+}   
+
+ul {
+    width: fit-content;
+    margin: auto;
 }
 
 li {
     font-size: 23px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    background-color: #000;
+}
+
+a {
+    color: rgb(150, 255, 150);
 }
